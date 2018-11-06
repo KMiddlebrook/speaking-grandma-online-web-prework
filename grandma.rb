@@ -1,4 +1,4 @@
-def speak_to_grandma(phrase)
+
   phrase = "How are you, grandma?"
   if phrase.upcase
     puts "NO, NOT SINCE 1938!"
@@ -10,4 +10,3 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP SONNY!"
     phrase.downcase
   end
-end
