@@ -1,3 +1,5 @@
+phrase = "How are you, grandma?"
+
 if phrase.upcase
   puts "NO, NOT SINCE 1938!"
 elsif phrase == "I LOVE YOU GRANDMA!"
