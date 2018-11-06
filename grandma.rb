@@ -13,10 +13,10 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 phrase = "Where are the cookies?"
 
-if phrase.downcase
-  puts "HUH?! SPEAK UP SONNY!"
-elsif phrase.upcase
+if phrase.upcase
   puts "NO, NOT SINCE 1938!"
 elsif phrase == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
+else
+  puts ""
 end  
