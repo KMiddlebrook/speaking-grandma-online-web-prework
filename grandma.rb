@@ -13,4 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 phrase = "Where are the cookies?"
 
-if phrase.
+if phrase.downcase
+  puts ""
+end  
